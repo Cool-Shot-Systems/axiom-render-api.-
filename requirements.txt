@@ -3,3 +3,5 @@ uvicorn
 duckduckgo_search
 pydantic
 python-dotenv
+huggingface_hub
+llama-cpp-python
